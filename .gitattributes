@@ -1,0 +1,2 @@
+models/conversation_model.pt filter=lfs diff=lfs merge=lfs -text
+models/whisper_ft_state_dict.pt filter=lfs diff=lfs merge=lfs -text
